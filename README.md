@@ -1,6 +1,6 @@
 # uas1.java
 
-
+public class Stack1 {
  int stack[]=new int[3];
    
     public void push(int value){
